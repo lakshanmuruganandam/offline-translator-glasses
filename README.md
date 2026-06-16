@@ -60,3 +60,7 @@ python app.py
   <b>Built by:</b> <a href="https://huggingface.co/LADDOO22212015">LADDOO22212015</a><br>
   <i>Forging the absolute future of open-source autonomous agents.</i>
 </div>
+
+
+### 🧠 Preferred Model
+> `facebook/seamless-m4t-v2-large` — Real-time multilingual speech and text translation.
